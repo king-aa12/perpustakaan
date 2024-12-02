@@ -1,4 +1,3 @@
-steamlit
-pandas
+streamlit
 json
-pillow
+pandas

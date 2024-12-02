@@ -38,7 +38,7 @@ Pilih kategori buku pada kolom di bawah dan tekan tombol 'Cari'.
 st.title("📚 Pencarian Buku Laporan PKL Prodi Teknik Informatika Perpustakaan POLITEKNIK NEGERI PONTIANAK")
  
 # Nama file JSON yang ingin dibaca
-nama_file = 'C://TUGAS MAKUL ALGORITMA PEMROGRAMAN//TUGAS AKHIR//Perpustakaan//datajsonbuku.json'
+nama_file = 'datajsonbuku.json'
 
 # Membaca data dari file JSON
 data_perpustakaan = baca_data_dari_file(nama_file)

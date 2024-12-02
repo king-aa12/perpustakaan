@@ -1,0 +1,73 @@
+[
+    {
+        "kategori": "buku laporan PKL Prodi Teknik Informatika Tahun 2020/2021",
+        "buku": [
+            {
+                "Letak_Buku_Laporan_PKL": "PKL.INFORMATIKA D.III 2015",
+                "Nomor_Urut_Arsip": "00574",
+                "Tahun_Pelaksanaan": "2021",
+                "NIM_Mahasiswa": "3201816002",
+                "Nama_Mahasiswa": "U. MEGA WATI",
+                "Judul_Laporan_PKL": "APLIKASI BUKU TAMU MENGGUNAKAN PHP DAN MYSQL",
+                "Nama_Dosen_Pembimbing": "Ramli S.T., M.T",
+                "Nama_Tempat_Pelaksanaan": "KANTOR WILAYAH KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA",
+                "Kabupaten_Kota_Pelaksanaan": "Kalimantan Barat"
+            },
+            {
+                "Letak_Buku_Laporan_PKL": "PKL.INFORMATIKA D.III 2015",
+                "Nomor_Urut_Arsip": "0053",
+                "Tahun_Pelaksanaan": "2021",
+                "NIM_Mahasiswa": "3201816090",
+                "Nama_Mahasiswa": "RIZKI YULIANTO",
+                "Judul_Laporan_PKL": "PENGGUNAAN APLIKASI NON PETI KEMAS SYSTEM(NPK-S)",
+                "Nama_Dosen_Pembimbing": "Ferry Faisal, S.S.S.T., MT",
+                "Nama_Tempat_Pelaksanaan": "PT.IPC PELINDO II (PERSERO) CABANG PONTIANAK",
+                "Kabupaten_Kota_Pelaksanaan": "Kota Pontianak"
+            },
+            {
+                "Letak_Buku_Laporan_PKL": "PKL.INFORMATIKA D.III 2015",
+                "Nomor_Urut_Arsip": "004678",
+                "Tahun_Pelaksanaan": "2021",
+                "NIM_Mahasiswa": "3201816078",
+                "Nama_Mahasiswa": "ERSHA LEONY VIRGINA",
+                "Judul_Laporan_PKL": "PENGGUNAAN WEBSITE SISTEM INFORMASI MANAJEMEN BARANG DAERAH (SIMBADA) UNTUK PENDATAAN BARANG DAERAH",
+                "Nama_Dosen_Pembimbing": "Fitri Wibowo, SST., MT",
+                "Nama_Tempat_Pelaksanaan": "SEKERTARIAT DAERAH KOTA PONTIANAK",
+                "Kabupaten_Kota_Pelaksanaan": "Kota Pontianak"
+            },
+            {
+                "Letak_Buku_Laporan_PKL": "PKL.INFORMATIKA D.III 2015",
+                "Nomor_Urut_Arsip": "0053",
+                "Tahun_Pelaksanaan": "2021",
+                "NIM_Mahasiswa": "3201816091",
+                "Nama_Mahasiswa": "URAY NUR KHADIJAH",
+                "Judul_Laporan_PKL": "MEMPELAJARI PENGGUNAAN SIMASET (SISTEM MANAJEMEN ASET) BERBASIS WEBSITE",
+                "Nama_Dosen_Pembimbing": "Freska Rolansa, S.T., M. Cs",
+                "Nama_Tempat_Pelaksanaan": "LPP RRI PONTIANAK",
+                "Kabupaten_Kota_Pelaksanaan": "Kota Pontianak"
+            },
+            {
+                "Letak_Buku_Laporan_PKL": "PKL.INFORMATIKA D.III 2015",
+                "Nomor_Urut_Arsip": "62181",
+                "Tahun_Pelaksanaan": "2021",
+                "NIM_Mahasiswa": "3201816100",
+                "Nama_Mahasiswa": "NURAFNI",
+                "Judul_Laporan_PKL": "PEMELIHARAAN PERANGKAT BTS (BASE TRANSEIVER STATIONS)",
+                "Nama_Dosen_Pembimbing": "Neny Firdayanti, S.T., M.T.",
+                "Nama_Tempat_Pelaksanaan": "PT. INFRATECH INDONESIA WEST KALIMANTAN REGION OPERATION DEPARTEMEN",
+                "Kabupaten_Kota_Pelaksanaan": "Kota Pontianak"
+            },
+            {
+                "Letak_Buku_Laporan_PKL": "PKL. TPHL 2017",
+                "Nomor_Urut_Arsip": "0053",
+                "Tahun_Pelaksanaan": "2020",
+                "NIM_Mahasiswa": "3201816096",
+                "Nama_Mahasiswa": "YUSUF ALI AKBAR RAMBE",
+                "Judul_Laporan_PKL": "MEMBANGUN PROGRAM CETAK KARTU ANGGOTA PERPUSTAKAAN",
+                "Nama_Dosen_Pembimbing": "Nurul Fadillah, S.Pd., M.Ed. TESOL",
+                "Nama_Tempat_Pelaksanaan": "DINAS KEARSIPAN DAN PERPUSTAKAAN DAERAH SANGGAU",
+                "Kabupaten_Kota_Pelaksanaan": "Kabupaten Sanggau"
+            }
+        ]
+    }
+]
